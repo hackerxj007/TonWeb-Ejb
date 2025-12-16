@@ -1,1 +1,9 @@
-“请勿非法使用”是指要求用户遵守法律法规和平台政策，不能利用产品或服务进行任何违法行为，例如侵害知识产权（盗版、盗用内容）、从事儿童剥削、进行欺诈（如“卖卡”诈骗）、网络犯罪活动（如提供技术支持、发布有害信息）等，违反即可能承担法律责任。这通常包括不得传播盗版材料、不得进行儿童性剥削、不得帮助他人进行网络犯罪、不得滥用SIM卡等，涉及民事赔偿和刑事处罚。
+功能如下:
+
+<img width="999" height="749" alt="3" src="https://github.com/user-attachments/assets/c7f5ae77-c9a9-4b09-91ce-c52a1178e9ac" />
+dnslog判断版本
+<img width="1608" height="562" alt="1" src="https://github.com/user-attachments/assets/8302d4a5-2f0c-4499-85af-609e39e31ec5" />
+内存马注入
+<img width="1217" height="888" alt="2" src="https://github.com/user-attachments/assets/7bbd166d-17c5-48e5-aa8f-ff4bbac75876" />
+回显cmd
+<img width="977" height="693" alt="4" src="https://github.com/user-attachments/assets/57d1dc0f-7fd2-4e89-a740-1fd9aa7e5bbc" />
